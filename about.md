@@ -19,8 +19,4 @@ I can help understand feasibility, platforms' architectures and implementation o
 
 I like electronic music, listening, production, and live concerts.
 
-* [LinkedIN](https://linkedin.com/in/magnum)
-* [Twitter](https://twitter.com/magnum)
-* [GitHub](https://github.com/magnum)
-
 Thanks for reading!
